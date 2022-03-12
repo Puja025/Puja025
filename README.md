@@ -1,18 +1,10 @@
+- - ![logo for GIT](https://user-images.githubusercontent.com/101355256/158035292-f127fb2e-68a7-4c3c-933e-f573ad971144.png)
 - 
 - 
-- ![logo for GIT](https://user-images.githubusercontent.com/101355256/158035292-f127fb2e-68a7-4c3c-933e-f573ad971144.png)
+- 
 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 👋 Hi, I’m Puja
 - 👀 I’m interested in Web development...
 - 🌱 I’m currently learning Python, Javascript, React...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/puja-banerjee-893a0014a/...
 
 <!---
